@@ -4,7 +4,7 @@ const About = () => {
     return (
     <div>
       <img class='img-header' src='images/32926238877_5511d0eea1_o.png'></img>
-    <div class = 'wrapper'>
+    <div class = 'about-wrapper'>
         <div class='section'>
         <h2>Premise</h2>
         <p>The game is a game about playing a game. In this game you play the game and fight against the bad guys. As you fight bad guys
@@ -41,6 +41,8 @@ const About = () => {
             <a class='others'>Privacy Policy</a>
             <div class='footer-divider'></div>
             <a class='others'>EULA</a>
+            <div class='footer-divider'></div>
+            <a class='others' href="https://github.com/keifferdasilva/creativeproject3">Github</a>
         </div>
         <div class='socials-container'>
             <a class='socials'>Facebook</a>

@@ -22,6 +22,8 @@ const Home = () => {
             <a class='others'>Privacy Policy</a>
             <div class='footer-divider'></div>
             <a class='others'>EULA</a>
+            <div class='footer-divider'></div>
+            <a class='others' href="https://github.com/keifferdasilva/creativeproject3">Github</a>
         </div>
         <div class='socials-container'>
             <a class='socials'>Facebook</a>
